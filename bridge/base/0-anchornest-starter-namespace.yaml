@@ -1,0 +1,8 @@
+#! 0-anchornest-starter-namespace.yaml
+# Generated code, do not edit
+apiVersion: v1
+kind: Namespace
+metadata:
+    name: anchornest-starter
+    labels:
+        com.docker.compose.project: anchornest-starter
